@@ -1,0 +1,14 @@
+{
+  "name": "Luckycoin",
+  "short_name": "LUC",
+  "icons": [
+    {
+      "src": "/favicon/Luckycoin.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
