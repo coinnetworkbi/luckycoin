@@ -122,7 +122,7 @@ export default function Hero() {
         {/* SUPPORTED WALLETS */}
         <div className="mt-4">
           <p className="text-center text-sm text-zinc-500">
-            LUC wallet support:
+            LUK wallet support:
           </p>
           <div className="mt-2 flex justify-center gap-4 flex-wrap">
             {WALLETS.map((wallet) => (
