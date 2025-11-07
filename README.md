@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/assets/logo.png" alt="Luckycoin Logo" width="150">
 </p>
 
-<h1 align="center">🍀 Luckycoin (LUC)</h1>
+<h1 align="center">🍀 Luckycoin (LUK)</h1>
 
 <p align="center">
   <a href="https://luckycoinvn.vercel.app" target="_blank">🌐 https://luckycoinvn.vercel.app</a>
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <b>Luckycoin (LUC)</b> is a digital reward point system that brings fortune to every customer.  
+  <b>Luckycoin (LUK)</b> is a digital reward point system that brings fortune to every customer.  
   It allows stores in any business field to offer reward points or discounts using blockchain technology —  
   helping customers feel luckier with every purchase.
 </p>
@@ -31,11 +31,11 @@
 | Information          | Details                          |
 | -------------------- | -------------------------------- |
 | **Token Name**       | Luckycoin                        |
-| **Symbol**           | LUC                              |
+| **Symbol**           | LUK                              |
 | **Network**          | Plasma Network                   |
 | **Token Standard**   | ERC-20                           |
 | **Decimals**         | 0                                |
-| **Contract Address** | 0xd0081014852cD6dec8a88cE2AB09437eB749D151 |
+| **Contract Address** | 0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a |
 
 ---
 
@@ -44,9 +44,9 @@
 Luckycoin can be used as a **reward point or discount token** for all types of stores — from cafés and restaurants to fashion, electronics, and more.
 
 Customers can:  
-* Accumulate **LUC** after each purchase.  
-* Redeem **LUC** for discounts or products.  
-* Transfer **LUC** easily between wallets like **Rabby**, **MetaMask**, or **Plasma Wallet**.  
+* Accumulate **LUK** after each purchase.  
+* Redeem **LUK** for discounts or products.  
+* Transfer **LUK** easily between wallets like **Rabby**, **MetaMask**, or **Plasma Wallet**.  
 
 By owning Luckycoin, customers not only save more — they also carry a symbol of good fortune in their pocket. 🍀  
 
