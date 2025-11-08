@@ -1,7 +1,7 @@
 export const CONTRACT = {
   name: 'Lucky Coin',
   symbol: 'LUK',
-  ca: '0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a',
+  ca: '0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d',
   totalSupply: 1000,
   taxPercentage: 5,
   ownershipRenounced: false,
@@ -21,7 +21,7 @@ export const CONTRACT = {
     },
     {
       name: 'Lucky Coin Chain',
-      url: 'https://plasmascan.to/token/0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a',
+      url: 'https://plasmascan.to/token/0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d',
       imgUrl: '/plasma.svg',
     },
       ],

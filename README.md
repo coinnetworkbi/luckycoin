@@ -35,7 +35,7 @@
 | **Network**          | Plasma Network                   |
 | **Token Standard**   | ERC-20                           |
 | **Decimals**         | 0                                |
-| **Contract Address** | 0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a |
+| **Contract Address** | 0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d |
 
 ---
 
