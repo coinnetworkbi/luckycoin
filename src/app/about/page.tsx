@@ -136,7 +136,7 @@ export default function AboutLuckycoinPage() {
             </a>
             <span>|</span>
             <a
-              href=""
+              href="https://x.com/luckycoinvn"
               target="_blank"
               className="text-green-600 hover:underline"
             >
