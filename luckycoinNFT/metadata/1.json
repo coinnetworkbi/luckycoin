@@ -1,6 +1,6 @@
 {
   "name": "Luckycoin #1",
-  "description": "This is the first Luckycoin NFT",
+  "description": "This is the first Luckycoin NFT https://luckycoinvn.vercel.app",
   "image": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/public/logo.png",
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
