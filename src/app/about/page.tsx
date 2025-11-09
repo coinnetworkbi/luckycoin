@@ -144,7 +144,7 @@ export default function AboutLuckycoinPage() {
             </a>
             <span>|</span>
             <a
-              href=""
+              href="https://discord.gg/CX9EsekZ"
               target="_blank"
               className="text-green-600 hover:underline"
             >
