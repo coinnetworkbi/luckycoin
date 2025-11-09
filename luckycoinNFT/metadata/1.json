@@ -1,7 +1,7 @@
 {
   "name": "Luckycoin #1",
   "description": "This is the first Luckycoin NFT",
-  "image": "https://example.com/image1.png",
+  "image": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/public/logo.png",
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
     { "trait_type": "Power", "value": 100 }
