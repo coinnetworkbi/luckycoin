@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/coinnetworkbi/luckycoin/blob/main/public/logo.png]" alt="Luckycoin Logo" width="150">
+   <img src="https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/public/logo.png" alt="Luckycoin Logo" width="150">
 </p>
 
 <h1 align="center">🍀 Luckycoin (LUK)</h1>
