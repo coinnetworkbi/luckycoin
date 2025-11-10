@@ -1,8 +1,8 @@
 {
   "name": "Luckycoin #1",
-  "description": "This is the first Luckycoin https://luckycoinvn.vercel.app",
+  "description": "https://luckycoinvn.vercel.app",
   "image": "",
-  "animation_url": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/luckycoinNFT/metadata/vidu.gif",
+  "animation_url": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/luckycoinNFT/metadata/LuckycoinNFT.gif",
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
     { "trait_type": "Power", "value": 100 }
