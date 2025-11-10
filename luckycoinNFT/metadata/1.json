@@ -3,6 +3,7 @@
   "description": "https://luckycoinvn.vercel.app",
   "image": "",
   "animation_url": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/luckycoinNFT/metadata/LuckycoinNFT.gif",
+  "external_url": "https://luckycoinvn.vercel.app/",
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
     { "trait_type": "Power", "value": 100 }
