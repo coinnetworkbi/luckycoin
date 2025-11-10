@@ -2,7 +2,7 @@
   "name": "Luckycoin #1",
   "description": "This is the first Luckycoin NFT https://luckycoinvn.vercel.app"
   "image": "https://ipfs.io/ipfs/bafkreiao2m4thxaw3l2r4iidugwlso5tvimlogksd64qopycul5kbj4him",
-  "animation_url": "https://ipfs.io/ipfs/bafybeiaeik7u2evbgjof3jfbgdff4ybd7enhov3ji2adwyihwyrptzlmfu"
+  "animation_url": "https://ipfs.io/ipfs/bafybeihpg67fq55sr3qavblmd66hlnhidmraubupbaqfe5lrokpzjlmbtm"
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
     { "trait_type": "Power", "value": 100 }
