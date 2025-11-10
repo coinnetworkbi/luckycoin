@@ -6,6 +6,6 @@
   "external_url": "https://luckycoinvn.vercel.app/",
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
-    { "trait_type": "Power", "value": 100 }
+    { "trait_type": "Version", "value": "Genesis" }
   ]
 }
