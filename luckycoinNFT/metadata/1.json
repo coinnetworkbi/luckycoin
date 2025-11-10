@@ -2,7 +2,7 @@
   "name": "Luckycoin #1",
   "description": "https://luckycoinvn.vercel.app",
   "image": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/luckycoinNFT/metadata/logo.png",
-  "animation_url": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/luckycoinNFT/metadata/Luckycoin.html",
+  "animation_url": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/luckycoinNFT/metadata/logol.svg",
   "external_url": "https://luckycoinvn.vercel.app/",
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
