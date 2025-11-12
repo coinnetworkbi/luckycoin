@@ -16,7 +16,7 @@ export const CONTRACT = {
     },
     { 
       name: 'Lucky Coin is now available',
-      url:'https://oku.trade/swap?inputChain=plasma&inToken=0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a&outToken=0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb',
+      url:'https://oku.trade/swap?inputChain=plasma&inToken=0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb&outToken=0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d',
       imgUrl: '/okutrade.png',   // 🟢 logo bên trái
     },
     {
