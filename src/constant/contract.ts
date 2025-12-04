@@ -11,7 +11,7 @@ export const CONTRACT = {
   partners: [
     {
       name: 'Lucky Coin in Rabby Wallet',
-      url:'',
+      url:'https://youtube.com/embed/VetJak-39ys',
       imgUrl: '/images/wallets/rabby.png',   // 🟢 logo bên trái
     },
     { 
