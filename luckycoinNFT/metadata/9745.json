@@ -1,0 +1,11 @@
+{
+  "name": "Luckycoin 9745",
+  "description": "https://luckycoinvn.vercel.app",
+  "image": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/luckycoinNFT/metadata/out.gif",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Version", "value": "Genesis" }
+  ]
+}
+
+
