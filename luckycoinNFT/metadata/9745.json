@@ -1,7 +1,7 @@
 {
   "name": "Luckycoin",
   "description": "https://luckycoinvn.vercel.app",
-  "image": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/main/luckycoinNFT/metadata/out.gif",
+  "image": "https://drive.google.com/uc?export=view&id=126I4GjZ-Ddo97eGNOkDMm_jzauFtfP8w",
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
     { "trait_type": "Version", "value": "Genesis" }
