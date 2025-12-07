@@ -1,7 +1,7 @@
 {
   "name": "LUK9745 (0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d)",
   "description": "https://luckycoinvn.vercel.app",
-  "image": "https://drive.google.com/uc?export=view&id=126I4GjZ-Ddo97eGNOkDMm_jzauFtfP8w",
+  "image": "https://raw.githubusercontent.com/coinnetworkbi/luckycoin/refs/heads/main/luckycoinNFT/0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d/images/logo.png",
   "attributes": [
     { "trait_type": "Rarity", "value": "Legendary" },
     { "trait_type": "Version", "value": "Genesis" }
